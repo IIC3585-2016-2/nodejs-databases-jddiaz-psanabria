@@ -1,0 +1,31 @@
+{
+  "name": "mongodb-uc",
+  "version": "1.0.0",
+  "description": "A presentation of mongodb database connection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IIC3585-2016-2/nodejs-databases-jddiaz-psanabria.git"
+  },
+  "keywords": [
+    "MongoDB",
+    "NodeJS",
+    "Databases"
+  ],
+  "author": "Pablo Sanabria - Juan Diego Diaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IIC3585-2016-2/nodejs-databases-jddiaz-psanabria/issues"
+  },
+  "homepage": "https://github.com/IIC3585-2016-2/nodejs-databases-jddiaz-psanabria#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "faker": "^3.1.0",
+    "mongodb": "^2.2.9",
+    "mongoose": "^4.6.0",
+    "morgan": "^1.7.0"
+  }
+}
